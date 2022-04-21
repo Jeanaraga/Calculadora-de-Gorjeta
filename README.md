@@ -26,8 +26,8 @@ Link para acessar a Calculadora: https://calculadore-de-gorjeta.vercel.app/
 ## ⚙ Ajustes e Melhorias
 
 - Trocar os input que recebem os numeros, para que aceite valores não inteiros.
-- Melhorar a Responsividade
-- Melhorar a Tradução do Site
+- Melhorar a Responsividade.
+- Melhorar a Tradução do Site.
 
 ## 👨🏾‍💻 Feito por 
 
